@@ -1,6 +1,6 @@
 # GenAIKrish
 Learning Gen AI from Udemy Krish Naik
-####Different ways to create environment
+# Different ways to create environment
 ### 1.python
 	• python -m venv myenv
 	• myenv\scripts\activate
